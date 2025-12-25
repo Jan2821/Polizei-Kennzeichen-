@@ -1,0 +1,7 @@
+{
+  "name": "Polizei-Kennzeichen-Abfragesystem",
+  "description": "Ein professionelles System zur Abfrage von Fahrzeughalter-Informationen basierend auf Kennzeichen, inklusive KI-generierter Details und PDF-Bericht-Export.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
